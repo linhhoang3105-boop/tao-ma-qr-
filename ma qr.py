@@ -78,3 +78,6 @@ if link_input:
         st.balloons() # Hiệu ứng bóng bay chúc mừng cho đẹp mắt
     except Exception as e:
         st.error(f"Có lỗi xảy ra khi tạo QR: {e}")
+        streamlit
+qrcode
+pillow
